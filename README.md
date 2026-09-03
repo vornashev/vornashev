@@ -17,7 +17,6 @@ Frontend Developer focused on clean UI, TypeScript and Linux desktop customizati
 * **[omarchy-yandex-music](https://github.com/vornashev/omarchy-yandex-music)** — Native browser-free Yandex Music mini-player for Omarchy Shell `QML`
 * **[dsh-ui-enhancements](https://github.com/vornashev/dsh-ui-enhancements)** — DSH profile bundle for Web GUI display preferences `TypeScript`
 * **[dsh-simple-git](https://github.com/vornashev/dsh-simple-git)** — Simple Git integration for DSH `JavaScript`
-* **[clearway-test](https://github.com/vornashev/clearway-test)** — [Live Demo](https://vornashev.github.io/clearway-test/) `TypeScript`
 
 ### Stats
 

@@ -6,9 +6,11 @@ Frontend Developer focused on clean UI, TypeScript and Linux desktop customizati
 
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,vue,qt,nodejs,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,react,nextjs,vue,tailwind,nestjs,prisma,postgres,redis,docker,linux)](https://skillicons.dev)
 
-`TypeScript` · `JavaScript` · `Vue` · `Qt / QML` · `Node.js` · `Hyprland / Omarchy`
+**Frontend:** `TypeScript` · `React 19` · `Next.js 16` · `Vue` · `Tailwind` · `Radix UI` · `Qt / QML`
+**Backend:** `NestJS` · `Prisma / Drizzle` · `Postgres / Mongo` · `Redis + BullMQ` · `Socket.io`
+**Infra/AI:** `Docker` · `pnpm + Nx` · `Anthropic / OpenAI` · `S3` · `Puppeteer` · `Hyprland / Omarchy`
 
 ### Featured
 

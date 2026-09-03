@@ -14,6 +14,8 @@ Frontend Developer focused on clean UI, TypeScript and Linux desktop customizati
 
 ### Featured
 
+* **[Tabka](https://tabka.pro)** — Pet project · Browser extension for tab workspaces & bookmarks (Nx + NestJS + Redis). `TypeScript` <br>
+  [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/ajhllinjojapmkfbgcicabjmlchffele) [![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://addons.mozilla.org/ru/firefox/addon/tabka/) [![Web App](https://img.shields.io/badge/Web_App-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://app.tabka.pro) [![Site](https://img.shields.io/badge/Site-tabka.pro-34A853?style=for-the-badge&logo=astro&logoColor=white)](https://tabka.pro)
 * **[omarchy-yandex-music](https://github.com/vornashev/omarchy-yandex-music)** — Native browser-free Yandex Music mini-player for Omarchy Shell `QML`
 * **[dsh-ui-enhancements](https://github.com/vornashev/dsh-ui-enhancements)** — DSH profile bundle for Web GUI display preferences `TypeScript`
 * **[dsh-simple-git](https://github.com/vornashev/dsh-simple-git)** — Simple Git integration for DSH `JavaScript`

@@ -6,9 +6,9 @@ Frontend Developer focused on clean UI, TypeScript and Linux desktop customizati
 
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,vue,qml,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,vue,qt,nodejs,linux)](https://skillicons.dev)
 
-`TypeScript` · `JavaScript` · `Vue` · `QML / Quickshell` · `Hyprland / Omarchy` · `Node.js`
+`TypeScript` · `JavaScript` · `Vue` · `Qt / QML` · `Node.js` · `Hyprland / Omarchy`
 
 ### Featured
 
@@ -19,7 +19,7 @@ Frontend Developer focused on clean UI, TypeScript and Linux desktop customizati
 
 ### Stats
 
-![Tema's GitHub stats](https://github-readme-stats.vercel.app/api?username=vornashev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vornashev&layout=compact&theme=tokyonight&hide_border=true)
+![Tema's GitHub stats](https://github-readme-stats-one.vercel.app/api?username=vornashev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=vornashev&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Streak](https://streak-stats.demolab.com?user=vornashev&theme=tokyonight&hide_border=true)
